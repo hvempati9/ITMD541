@@ -23,4 +23,3 @@ function calculateTip() {
 
     total_amount.value = parseFloat(bill + total_tip).toFixed(2);
 }
-

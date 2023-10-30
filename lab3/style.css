@@ -66,5 +66,8 @@ form {
        body{
            margin : 0%;
        }
+       .border{
+        margin: 0%;
+    }
        
    }
